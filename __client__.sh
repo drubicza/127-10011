@@ -1,9 +1,48 @@
-##############################
-#Author By: Mr.Tr3v!0n
-#Team: Black Coder Crush
-#Thank Too All Member BCC
-#And You :)
-##############################
-z="
-";fBz='{m}-';mDz='1 ] ';PCz='║  $';dBz='${k}';Sz='p1="';oz='╔╦╗╔';Cz='30;1';yBz='{m}╗';iDz='if [';TDz='tis"';TEz='p2}∩';ez='m}  ';vCz='ush"';LBz='  "';CCz='${b}';MEz='polo';kCz='}:${';mEz='ent_';IDz='ytho';ECz='═${b';BDz='${p}';wz='║╣ ║';tz='b}  ';fEz='NG I';oEz='fi';iBz='-${k';lDz=' = 0';SBz='┣▇▇▇';LCz=' ██$';NBz='╝"';sz='║"';vBz='m}╗ ';cBz='oO--';KDz='ell"';hz='════';ZBz='(o o';Fz='31;1';tDz='__ss';Ez='m="\';cEz='k}┐"';Rz='1m"';NCz='}╔╝ ';WCz='═╝ ╚';jDz=' $in';yDz='inje';MCz='{m}║';wCz='h}  ';GCz='m}╔╝';eCz='۩ஜ${';XBz='{k}(';dCz='ஜ۩🔰';LEz='h';EEz=';the';iEz='!"';QDz='ubsc';jz='║${c';lz='╔═╗╦';gz='╔═══';tBz='m}╗$';UEz='┐(${';QEz='else';Tz='[37;';uDz='h__.';GBz='╩╚═╝';nEz='_.sh';UCz='}║  ';bCz='b} ▬';Bz='033[';mCz='.Tr3';MBz='╚═══';nBz='████';ZEz='k})┌';JEz='rver';BCz='  ██';qz='╗╦  ';EDz='{m}|';WDz='esta';jEz='slee';uCz='r Cr';ACz='				';pz='═╗╔═';YEz='}◢${';GEz='sh _';WBz='"';eDz='ih N';rBz='}╗${';aBz=')"';hCz='h} A';OBz='   $';lBz='o"';OEz='tsel';qBz='{b}█';dEz=' ${m';xBz='}██$';gDz=' inj';Lz='34;1';JCz='}╔╝$';dDz='"Pil';SDz=' Gra';KEz='__.s';iCz='utho';ADz='{m}:';dz=' "${';JBz='╝╩═╝';FEz='n';UBz='k}  ';gEz='NPUT';cz='echo';RBz='${h}';kEz='p 1';BBz='═╗║╣';xCz='  Ve';PBz='{k} ';vDz='py';nz='═╔═╗';fDz='o: "';DDz='*_*$';Nz='35;1';qDz='hen';yCz='rsi$';TBz='═─${';FDz='rs${';xz='  ╠╩';Zz='[40;';RDz='ribe';iz='╗"';NEz='san-';tCz='Code';eEz='}WRO';sBz='██${';YBz='o o)';fCz='b}▬▬';qCz='m${m';hDz='ect';ZCz='╚═╝ ';YDz='njec';cCz='▬▬▬▬';Az='a="\';rDz='pyth';nCz='v!0n';Gz='h="\';oDz=' = 1';FBz='═╝╩ ';mz='  ╦╔';HDz='{p}P';jBz='}(_)';fz='    ';lCz='p}Mr';rCz='p}Bl';sCz='ack ';yz='╗║ ║';PDz='c} S';uBz='{b} ';vz='h}║ ';aDz='p}"';IBz='═╝╚═';jCz='r${m';CEz='] ||';eBz='(_)$';mBz='   █';Jz='33;1';XCz='═╝  ';Pz='\033';Iz='k="\';kDz='ject';KBz='║   ';kz='}╔╦╗';bEz='}∩${';REz=' "	 ';wDz='elif';uz='║ ${';BEz=' 02 ';CBz=' ║  ';pCz='}Tea';IEz='g_se';JDz='n+Sh';ABz='║║║╚';Qz='[36;';aCz=' ╚═╝';VBz=' * *';Oz='pu="';sDz='on2 ';kBz='--Oo';Xz='39;1';oBz='█${m';xDz=' [ $';rz='${m}';XDz='rt I';QCz='═╝${';VDz='c} R';Vz='[38;';bBz='   o';pBz='}╗ $';Kz='b="\';Hz='32;1';Yz='hi="';RCz='b} █';gBz='-Ooo';YCz='══╝ ';NDz='1${p';HCz='		"';MDz='{h}0';nDz='|| [';DCz='}╔══';hBz='ooO-';SCz='m}╔═';OCz='	"';AEz='ct =';ZDz='t"';bz='r';HBz='╩ ╩╚';pDz=' ];t';TCz='  ╚$';oCz='|${h';bDz='read';PEz='.py';Wz='p="\';cDz=' -p ';EBz='╚═╝╩';lEz='_cli';XEz='_${m';ICz='m}║$';KCz='}║ $';ODz='}]${';FCz='m}║ ';UDz='2${p';HEz='__bu';Mz='c="\';DBz='k}╩ ';az='clea';DEz=' 2 ]';SEz=' ┌${';aEz='${p2';VEz='m}◣$';LDz='p}[$';WEz='{p2}';GDz='m}:$';hEz=' !!!';Dz='m"';QBz='*** ';Uz='m1="';wBz=' ${b';CDz='1.0 ';gCz='▬▬▬"';VCz='   ╚';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Dz$z$Gz$Bz$Hz$Dz$z$Iz$Bz$Jz$Dz$z$Kz$Bz$Lz$Dz$z$Mz$Bz$Nz$Dz$z$Oz$Pz$Qz$Rz$z$Sz$Pz$Tz$Rz$z$Uz$Pz$Vz$Rz$z$Wz$Bz$Xz$Dz$z$Yz$Pz$Zz$Rz$z$az$bz$z$cz$dz$ez$fz$gz$hz$hz$hz$hz$hz$hz$iz$z$cz$dz$ez$fz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$cz$dz$tz$fz$uz$vz$wz$xz$yz$ABz$BBz$CBz$rz$sz$z$cz$dz$tz$fz$uz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$rz$KBz$fz$fz$fz$LBz$z$cz$dz$tz$fz$MBz$hz$hz$hz$hz$hz$hz$NBz$z$cz$dz$ez$fz$OBz$PBz$QBz$fz$RBz$SBz$TBz$UBz$VBz$WBz$z$cz$dz$ez$fz$OBz$XBz$YBz$fz$fz$fz$ZBz$aBz$z$cz$dz$ez$bBz$cBz$dBz$eBz$fBz$gBz$fz$hBz$iBz$jBz$rz$kBz$lBz$z$cz$dz$tz$mBz$nBz$oBz$pBz$qBz$nBz$oBz$rBz$tz$nBz$sBz$tBz$uBz$sBz$vBz$wBz$xBz$yBz$ACz$ACz$WBz$z$cz$dz$tz$BCz$rz$gz$CCz$sBz$tBz$qBz$oBz$DCz$CCz$sBz$tBz$qBz$oBz$DCz$ECz$xBz$yBz$CCz$sBz$FCz$CCz$sBz$GCz$ACz$HCz$z$cz$dz$tz$BCz$rz$KBz$CCz$sBz$ICz$qBz$nBz$oBz$JCz$qBz$oBz$KCz$uBz$LCz$MCz$CCz$nBz$oBz$NCz$ACz$OCz$z$cz$dz$tz$BCz$rz$PCz$uBz$sBz$ICz$qBz$oBz$DCz$QCz$RCz$oBz$KCz$uBz$LCz$MCz$CCz$sBz$SCz$CCz$sBz$vBz$ACz$OCz$z$cz$dz$ez$TCz$qBz$nBz$oBz$JCz$qBz$oBz$UCz$VCz$CCz$nBz$sBz$GCz$CCz$sBz$FCz$CCz$LCz$yBz$ACz$OCz$z$cz$dz$ez$VCz$hz$WCz$XCz$fz$MBz$YCz$ZCz$aCz$ACz$HCz$z$cz$dz$bCz$cCz$cCz$cCz$cCz$dBz$dCz$eCz$fCz$cCz$cCz$cCz$gCz$z$cz$dz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$rz$oCz$pCz$qCz$kCz$rCz$sCz$tCz$uCz$vCz$z$cz$dz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$RBz$tCz$FDz$GDz$HDz$IDz$JDz$KDz$z$cz$dz$bCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$gCz$z$cz$z$cz$dz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$cz$dz$LDz$MDz$UDz$ODz$VDz$WDz$XDz$YDz$ZDz$z$cz$dz$aDz$z$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$iDz$jDz$kDz$lDz$mDz$nDz$jDz$kDz$oDz$pDz$qDz$z$rDz$sDz$tDz$uDz$vDz$z$wDz$xDz$yDz$AEz$BEz$CEz$xDz$yDz$AEz$DEz$EEz$FEz$z$GEz$HEz$IEz$JEz$KEz$LEz$z$rDz$sDz$MEz$NEz$OEz$PEz$z$QEz$z$cz$z$cz$REz$fz$dBz$SEz$TEz$dBz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$z$cz$REz$fz$dEz$eEz$fEz$gEz$hEz$iEz$z$cz$z$jEz$kEz$z$GEz$lEz$mEz$nEz$z$oEz" 
+a="\033[30;1m"
+m="\033[31;1m"
+h="\033[32;1m"
+k="\033[33;1m"
+b="\033[34;1m"
+c="\033[35;1m"
+pu="\033[36;1m"
+p1="\033[37;1m"
+m1="\033[38;1m"
+p="\033[39;1m"
+hi="\033[40;1m"
+clear
+echo "${m}      ╔═══════════════════════════╗"
+echo "${m}      ║${c}╔╦╗╔═╗╦  ╦╔═╔═╗╔╦╗╔═╗╔═╗╦  ${m}║"
+echo "${b}      ║ ${h}║ ║╣ ║  ╠╩╗║ ║║║║╚═╗║╣ ║  ${m}║"
+echo "${b}      ║ ${k}╩ ╚═╝╩═╝╩ ╩╚═╝╩ ╩╚═╝╚═╝╩═╝${m}║                 "
+echo "${b}      ╚═══════════════════════════╝"
+echo "${m}         ${k} ***     ${h}┣▇▇▇═─${k}   * *"
+echo "${m}         ${k}(o o)            (o o)"
+echo "${m}     ooO--${k}(_)${m}--Ooo    ooO--${k}(_)${m}--Ooo"
+echo "${b}     ██████${m}╗ ${b}██████${m}╗${b}  ██████${m}╗${b} ██${m}╗  ${b}██${m}╗								"
+echo "${b}    ██${m}╔═══${b}██${m}╗${b}██${m}╔══${b}██${m}╗${b}██${m}╔═══${b}██${m}╗${b}██${m}║ ${b}██${m}╔╝						"
+echo "${b}    ██${m}║   ${b}██${m}║${b}██████${m}╔╝${b}██${m}║ ${b}  ██${m}║${b}█████${m}╔╝ 					"
+echo "${b}    ██${m}║  ${b} ██${m}║${b}██${m}╔═══╝${b} ██${m}║ ${b}  ██${m}║${b}██${m}╔═${b}██${m}╗ 					"
+echo "${m}    ╚${b}██████${m}╔╝${b}██${m}║     ╚${b}██████${m}╔╝${b}██${m}║ ${b} ██${m}╗					"
+echo "${m}     ╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═╝						"
+echo "${b} ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬${k}ஜ۩🔰۩ஜ${b}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+echo "${h} Author${m}:${p}Mr.Tr3v!0n${m}|${h}Team${m}:${p}Black Coder Crush"
+echo "${h}    Versi${m}:${p}1.0 *_*${m}|${h}Coders${m}:${p}Python+Shell"
+echo "${b} ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+echo
+echo "${p}[${h}01${p}]${c} Subscribe Gratis"
+echo "${p}[${h}02${p}]${c} Restart Inject"
+echo "${p}"
+read -p "Pilih No: " inject
+if [ $inject = 01 ] || [ $inject = 1 ];then
+python2 __ssh__.py
+elif [ $inject = 02 ] || [ $inject = 2 ];then
+sh ___bug_server__.sh
+python2 polosan-tsel.py
+else
+echo
+echo "	     ${k} ┌${p2}∩${k}┐(${m}◣${p2}_${m}◢${k})┌${p2}∩${k}┐"
+echo "	      ${m}WRONG INPUT !!!!"
+echo
+sleep 1
+sh __client__.sh
+fi
